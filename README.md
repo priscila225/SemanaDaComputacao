@@ -5,4 +5,4 @@ Ferramentas:
 - Drozer : https://labs.mwrinfosecurity.com/tools/drozer/
 - Androbugs : https://github.com/AndroBugs/AndroBugs_Framework
 - MobSF: https://github.com/ajinabraham/Mobile-Security-Framework-MobSF
--
+
