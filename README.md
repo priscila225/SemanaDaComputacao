@@ -18,8 +18,8 @@ adb install agent.apk
 
 Lista de comandos:
 
-adb forward tcp:31415 tcp:31415
-drozer console connect
+> adb forward tcp:31415 tcp:31415
+> drozer console connect
 
 Lista todos os apps:
 > run app.package.list
