@@ -44,6 +44,4 @@ Para descobrir o nome das Activities exportadas
 > run app.activity.info -a com.isi.testapp
 
 Comando para chamar uma Activity
-> run app.activity.start –component com.isi.testapp com.isi.testapp.Welcome
-
-
+> run app.activity.start --component com.isi.testapp com.isi.testapp.Welcome
