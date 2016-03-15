@@ -35,7 +35,7 @@ Para descobrir o nome do pacote da aplicação desejada:
 > run app.package.list -f testapp
 
 Para saber mais informações sobre o app
-> run app.package.info -a testapp
+> run app.package.info -a com.isi.testapp
 
 Verificar se o app possui alguma superficie de ataque
 > run app.package.attacksurface com.isi.testapp
