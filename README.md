@@ -17,7 +17,8 @@ Drozer utilizado nesta apresentação:
 Instale o agent.apk no celular desejado:
 
 > adb install agent.apk
---> Abrir o app agent no celular e ligar o server
+
+Depois: Abrir o app agent no celular e ligar o server
 
 Lista de comandos:
 
