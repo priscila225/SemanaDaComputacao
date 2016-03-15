@@ -22,7 +22,10 @@ Depois: Abrir o app agent no celular e ligar o server
 
 Lista de comandos:
 
+Conectar o server com o adb:
 > adb forward tcp:31415 tcp:31415
+
+Iniciar o console do drozer:
 > drozer console connect
 
 Lista todos os apps:
