@@ -12,8 +12,11 @@ Algumas ferramentas úteis para android assessment:
 - Androbugs : https://github.com/AndroBugs/AndroBugs_Framework
 - MobSF: https://github.com/ajinabraham/Mobile-Security-Framework-MobSF
 
-Drozer nesta apresentação:
-adb install agent.apk
+Drozer utilizado nesta apresentação:
+
+Instale o agent.apk no celular desejado:
+
+> adb install agent.apk
 --> Abrir o app agent no celular e ligar o server
 
 Lista de comandos:
